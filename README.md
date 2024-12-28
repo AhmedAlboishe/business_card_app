@@ -7,7 +7,8 @@ The **Business Card App** is a Flutter-based application designed to help users 
 
 | Home Screen | Edit Screen |
 |-------------|-------------|
-| <p align="center"><img src="https://github.com/user-attachments/assets/76adec3e-08d9-40f7-910a-2f3355ef2413" width="40%" height="40%" align="middle"></p> | <p align="center"><img src="https://github.com/user-attachments/assets/76adec3e-08d9-40f7-910a-2f3355ef2413" width="40%" height="40%" align="middle"></p> |
+| <p align="center"><img src="https://github.com/user-attachments/assets/76adec3e-08d9-40f7-910a-2f3355ef2413" width="40%" height="40%" align="middle"></p> | <p align="center"><img src="https://github.com/user-attachments/assets/1b759309-d904-43e3-ab56-3a07ad973a4d" width="40%" height="40%" align="middle"></p> |
+
 
 ## Features
 - Create customizable business cards with essential details (Name, Job Title, Phone Number, Email).
